@@ -22,7 +22,7 @@ Deve ser criado um repositório aqui no github privado e compartilhar comigo (al
 - Consultar uma api no backend do nextjs e retornar os dados (Sugestão: Utilizar o viacep.com.br)
 
 ### KLAB-0002 Exibir informações Meteorológicas
-- Agora que temos o endereço, deve-se exibir as informações meterológicas da cidade
+- Agora que temos o endereço, deve-se exibir as informações Meteorológicas da cidade
 - https://developer.accuweather.com/ (Este exemplo de API pode ser utilizado, ele tem um teste de 50 chamadas por dia)
 - As regras da atividade continuam valendo
 
