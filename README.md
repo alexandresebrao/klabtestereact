@@ -21,7 +21,7 @@ Deve ser criado um repositório aqui no github privado e compartilhar comigo (al
 - Criar um input onde devo digitar o CEP ou colar, exibir no input já formatado (Ex: xx.xxx-xxx)
 - Consultar uma api no backend do nextjs e retornar os dados (Sugestão: Utilizar o viacep.com.br)
 
-### KLAB-0002 Exibir informações meterorológicas
+### KLAB-0002 Exibir informações Meteorológicas
 - Agora que temos o endereço, deve-se exibir as informações meterológicas da cidade
 - https://developer.accuweather.com/ (Este exemplo de API pode ser utilizado, ele tem um teste de 50 chamadas por dia)
 - As regras da atividade continuam valendo
@@ -31,4 +31,4 @@ Deve ser criado um repositório aqui no github privado e compartilhar comigo (al
 - Deve-se exibir uma tabela com os seguintes cabeçalhos (Hora da Consulta, CEP, cidade, estado e temperatura)
 - Deve-se exibir os ultimos 10 registros (e caso uma nova consulta, o ultimo deve ser destacado)
 - Devo ser capaz de ordenar por qualquer uma das colunas.
-- Lembre-se não devo consultar a api para esta consulta em nenhum momento, devo trazer os valores do que já foi executado
+- Lembre-se não devo consultar a api para esta consulta em nenhum momento, devo trazer os valores do que já foram retornados.
