@@ -11,6 +11,7 @@ seguindo o padrão KLAB-XXXX onde XXXX é atividade.
 
 ### Instruções de entrega do teste
 Deve ser criado um repositório aqui no github privado e compartilhar comigo (alexandresebrao)
+Entrega 3 Dias
 
 ### Exigências do teste
 - Ser feito utilizado o NextJS como base
@@ -33,3 +34,7 @@ Deve ser criado um repositório aqui no github privado e compartilhar comigo (al
 - Caso um mesmo CEP seja reconsultado e esteja na lista, ele deve ser atualizado.
 - Devo ser capaz de ordenar por qualquer uma das colunas.
 - Lembre-se não devo consultar a api para esta consulta em nenhum momento, devo trazer os valores do que já foram retornados.
+
+### KLAB-004 Estilização e responsividade
+- O site deve ter um estilo agradavel (Preferência Tailwind)
+- Deve ser responsivo (mobile, tablets, e pc)
