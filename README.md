@@ -13,8 +13,10 @@ seguindo o padrão KLAB-XXXX onde XXXX é atividade.
 Deve ser criado um repositório aqui no github privado e compartilhar comigo (alexandresebrao)
 Entrega 3 Dias
 
+### Diferencial
+- Ser feito com nextjs e utilizando seus recursos
+
 ### Exigências do teste
-- Ser feito utilizado o NextJS como base
 - Mostrar o dominio de uso de componentes
 - Mostrar a capacidade de interação com o backend e frontend
 
