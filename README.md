@@ -31,7 +31,7 @@ Entrega 3 Dias
 - As regras da atividade continuam valendo
 
 ### KLAB-0003 Persistência de sessão
-- Utilizar-se de cookies (não pode ser LocalStorage) para armazenar dados das consultas de cep e exibir na tela separada
+- Utilizar-se de cookies (não pode ser LocalStorage) para armazenar dados das consultas de cep e exibir em tela separada
 - Deve-se exibir uma tabela com os seguintes cabeçalhos (Hora da Consulta, CEP, cidade, estado e temperatura)
 - Deve-se exibir os ultimos 10 registros (e caso uma nova consulta, o ultimo deve ser destartado)
 - Caso um mesmo CEP seja reconsultado e esteja na lista, ele deve ser atualizado.
@@ -39,5 +39,5 @@ Entrega 3 Dias
 - Lembre-se não devo consultar a api para esta consulta em nenhum momento, devo trazer os valores do que já foram retornados.
 
 ### KLAB-004 Estilização e responsividade
-- O site deve ter um estilo agradavel (Preferência Tailwind)
+- O site deve ter um estilo agradavel (Preferência Tailwind) Pense na escolha de cores, e outros pontos
 - Deve ser responsivo (mobile, tablets, e pc)
