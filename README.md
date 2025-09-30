@@ -27,7 +27,7 @@ Entrega 3 Dias
 
 ### KLAB-0002 Exibir informações Meteorológicas
 - Agora que temos o endereço, deve-se exibir as informações Meteorológicas da cidade
-- https://developer.accuweather.com/ (Este exemplo de API pode ser utilizado, ele tem um teste de 50 chamadas por dia)
+- [https://developer.accuweather.com/](https://www.weatherapi.com/) (Este exemplo de API pode ser utilizado)
 - As regras da atividade continuam valendo
 
 ### KLAB-0003 Persistência de sessão
