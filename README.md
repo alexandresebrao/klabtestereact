@@ -33,7 +33,7 @@ Entrega 3 Dias
 ### KLAB-0003 Persistência de sessão
 - Utilizar-se de cookies (não pode ser LocalStorage) para armazenar dados das consultas de cep e exibir em tela separada
 - Deve-se exibir uma tabela com os seguintes cabeçalhos (Hora da Consulta, CEP, cidade, estado e temperatura)
-- Deve-se exibir os ultimos 10 registros (e caso uma nova consulta, o ultimo deve ser destartado)
+- Deve-se exibir os ultimos 10 registros (e caso uma nova consulta, o ultimo deve ser descartado)
 - Caso um mesmo CEP seja reconsultado e esteja na lista, ele deve ser atualizado.
 - Devo ser capaz de ordenar por qualquer uma das colunas.
 - Lembre-se não devo consultar a api para esta consulta em nenhum momento, devo trazer os valores do que já foram retornados.
