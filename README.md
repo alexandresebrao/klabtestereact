@@ -14,7 +14,11 @@ Deve ser criado um repositório aqui no github privado e compartilhar comigo (al
 Entrega 3 Dias
 
 ### Diferencial
-- Ser feito com NEXTJS e utilizando seus recursos
+- Ser feito com NEXTJS e utilizando seus recursos, exemplos:
+  - Página de erros, não encontrado
+  - middlewares
+  - server actions
+  - etc...
 
 ### Exigências do teste
 - Mostrar o dominio de uso de componentes
@@ -41,3 +45,8 @@ Entrega 3 Dias
 ### KLAB-004 Estilização e responsividade
 - O site deve ter um estilo agradavel (Preferência Tailwind) Pense na escolha de cores, e outros pontos
 - Deve ser responsivo (mobile, tablets, e pc)
+
+### KLAB-005 Mock de autenticação
+- Criar uma tela de login e um usuario e senha válido que podem estar "fixos no código" para autenticar (lembre-se de fazer a validação no backend)
+ 
+    
